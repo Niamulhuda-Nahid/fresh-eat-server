@@ -1,0 +1,176 @@
+[
+  {
+    "id": "chef_001",
+    "img_url": "https://i.ibb.co.com/BzbRvg3/chef.png",
+    "name": "Gordon Ramsay",
+    "years_of_experience": 30,
+    "number_of_recipes": 1000,
+    "description": "Gordon Ramsay is a world-renowned chef known for his fiery personality and Michelin-starred restaurants. He has hosted several popular cooking shows, including Hell's Kitchen and MasterChef.",
+    "likes": 500000,
+    "recipes": [
+      {
+        "recipe_name": "Beef Wellington",
+        "ingredients": ["Beef fillet", "Mushrooms", "Parma ham", "Puff pastry", "Egg yolk"],
+        "cooking_method": "Sear the beef fillet, coat it with a mushroom duxelle, wrap in parma ham and puff pastry, and bake until golden brown.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Scrambled Eggs",
+        "ingredients": ["Eggs", "Butter", "Cream", "Salt", "Pepper"],
+        "cooking_method": "Gently whisk eggs and cook on low heat with butter, stirring continuously, then add cream and seasoning.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Herb-Crusted Rack of Lamb",
+        "ingredients": ["Rack of lamb", "Breadcrumbs", "Garlic", "Rosemary", "Dijon mustard"],
+        "cooking_method": "Rub lamb with garlic and rosemary, coat with Dijon mustard and breadcrumbs, and roast until desired doneness.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "chef_002",
+    "img_url": "https://i.ibb.co.com/myf3YBB/istockphoto-1298088270-612x612.jpg",
+    "name": "Jamie Oliver",
+    "years_of_experience": 25,
+    "number_of_recipes": 1200,
+    "description": "Jamie Oliver is a British chef and advocate for healthy eating. His approachable cooking style has made him a household name, with numerous cookbooks and TV shows to his credit.",
+    "likes": 450000,
+    "recipes": [
+        {
+          "recipe_name": "Chicken Parmesan",
+          "ingredients": ["Chicken breast", "Tomato sauce", "Mozzarella", "Parmesan", "Basil"],
+          "cooking_method": "Bread and fry the chicken breast, top with tomato sauce and cheese, and bake until golden and bubbly.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "Vegetable Stir-Fry",
+          "ingredients": ["Broccoli", "Carrots", "Bell peppers", "Soy sauce", "Garlic"],
+          "cooking_method": "Sauté vegetables in a hot pan with garlic, then toss in soy sauce for a quick stir-fry.",
+          "rating": 4.6
+        },
+        {
+          "recipe_name": "Homemade Pizza",
+          "ingredients": ["Pizza dough", "Tomato sauce", "Mozzarella", "Olive oil", "Fresh basil"],
+          "cooking_method": "Roll out pizza dough, spread tomato sauce, add mozzarella, drizzle with olive oil, and bake until crust is crispy.",
+          "rating": 4.8
+        }
+      ]
+  },
+  {
+    "id": "chef_003",
+    "img_url": "https://i.ibb.co.com/BzbRvg3/chef.png",
+    "name": "Alice Waters",
+    "years_of_experience": 40,
+    "number_of_recipes": 800,
+    "description": "Alice Waters is a pioneer of the farm-to-table movement. She is the founder of Chez Panisse, a famous restaurant in Berkeley, California, and has been a key advocate for organic and locally grown food.",
+    "likes": 300000,
+    "recipes": [
+        {
+          "recipe_name": "Roasted Beet Salad",
+          "ingredients": ["Beets", "Goat cheese", "Arugula", "Walnuts", "Balsamic vinegar"],
+          "cooking_method": "Roast beets until tender, slice and serve with goat cheese, arugula, walnuts, and balsamic dressing.",
+          "rating": 4.7
+        },
+        {
+          "recipe_name": "Grilled Asparagus",
+          "ingredients": ["Asparagus", "Olive oil", "Lemon juice", "Garlic", "Parmesan"],
+          "cooking_method": "Grill asparagus with olive oil and garlic, then drizzle with lemon juice and sprinkle with Parmesan.",
+          "rating": 4.6
+        },
+        {
+          "recipe_name": "Tomato Basil Soup",
+          "ingredients": ["Tomatoes", "Onion", "Garlic", "Basil", "Vegetable broth"],
+          "cooking_method": "Simmer tomatoes, onions, and garlic in vegetable broth, blend until smooth, and add fresh basil.",
+          "rating": 4.8
+        }
+      ]  
+  },
+  {
+    "id": "chef_004",
+    "img_url": "https://i.ibb.co.com/myf3YBB/istockphoto-1298088270-612x612.jpg",
+    "name": "Thomas Keller",
+    "years_of_experience": 35,
+    "number_of_recipes": 950,
+    "description": "Thomas Keller is one of the most respected chefs in the United States, best known for his meticulous approach to French cuisine. He runs The French Laundry, a three-Michelin-star restaurant in Napa Valley.",
+    "likes": 350000,
+    "recipes": [
+      {
+        "recipe_name": "Confit de Canard",
+        "ingredients": ["Duck legs", "Garlic", "Thyme", "Salt", "Duck fat"],
+        "cooking_method": "Slow-cook duck legs in duck fat with garlic and thyme until tender and crispy.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Ratatouille",
+        "ingredients": ["Eggplant", "Zucchini", "Bell peppers", "Tomatoes", "Olive oil"],
+        "cooking_method": "Layer sliced vegetables in a baking dish, drizzle with olive oil, and roast until tender.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Lobster Bisque",
+        "ingredients": ["Lobster", "Onion", "Carrot", "Cognac", "Cream"],
+        "cooking_method": "Sauté vegetables, add lobster shells, simmer with cognac and cream, and blend for a smooth bisque.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": "chef_005",
+    "img_url": "https://i.ibb.co.com/THt4gvs/360-F-641882588-Qayq-H5o-M7zcn-BBGRw-K7-TWs-CJTM0shf-KX.jpg",
+    "name": "Ina Garten",
+    "years_of_experience": 20,
+    "number_of_recipes": 700,
+    "description": "Ina Garten, also known as the Barefoot Contessa, is beloved for her simple yet elegant recipes. She has written numerous cookbooks and hosts a popular cooking show on Food Network.",
+    "likes": 400000,
+    "recipes": [
+        {
+          "recipe_name": "Lemon Roast Chicken",
+          "ingredients": ["Whole chicken", "Lemon", "Garlic", "Rosemary", "Olive oil"],
+          "cooking_method": "Roast chicken with lemon, garlic, and rosemary until golden and juicy.",
+          "rating": 4.9
+        },
+        {
+          "recipe_name": "Penne with Vodka Sauce",
+          "ingredients": ["Penne pasta", "Tomato sauce", "Vodka", "Cream", "Parmesan"],
+          "cooking_method": "Simmer tomato sauce with vodka and cream, then toss with cooked penne and Parmesan.",
+          "rating": 4.7
+        },
+        {
+          "recipe_name": "Chocolate Cake",
+          "ingredients": ["Flour", "Cocoa powder", "Butter", "Sugar", "Eggs"],
+          "cooking_method": "Mix ingredients and bake until moist and fluffy, then frost with rich chocolate icing.",
+          "rating": 4.9
+        }
+      ]
+  },
+  {
+    "id": "chef_006",
+    "img_url": "https://i.ibb.co.com/VvPKZxC/360-F-635201516-G2-TFp-FPo-FA6ut-XYNg-Flg-PJGw-U24mj6-CJ.jpg",
+    "name": "Wolfgang Puck",
+    "years_of_experience": 45,
+    "number_of_recipes": 1500,
+     "description": "Wolfgang Puck is a global culinary icon with a blend of French, Asian, and Californian cooking styles. His innovative approach has made him a leader in the world of modern fusion cuisine.",
+    "likes": 600000,
+    "recipes": [
+      {
+        "recipe_name": "Spicy Tuna Tartare",
+        "ingredients": ["Tuna", "Soy sauce", "Sriracha", "Avocado", "Sesame oil"],
+        "cooking_method": "Mix diced tuna with soy sauce and sriracha, serve on avocado slices drizzled with sesame oil.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Truffle Risotto",
+        "ingredients": ["Arborio rice", "Truffle oil", "Mushrooms", "Parmesan", "Chicken broth"],
+        "cooking_method": "Cook Arborio rice slowly in chicken broth, stir in mushrooms and Parmesan, finish with truffle oil.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Smoked Salmon Pizza",
+        "ingredients": ["Pizza dough", "Smoked salmon", "Dill", "Cream cheese", "Capers"],
+        "cooking_method": "Bake pizza dough, spread with cream cheese, top with smoked salmon, dill, and capers.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
