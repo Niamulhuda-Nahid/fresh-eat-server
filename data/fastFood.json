@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Whopper",
+      "category": "Burger",
+      "price": 4.99,
+      "calories": 660,
+      "photo_url": "https://i.ibb.co.com/JFLL8tj/burger.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Big Mac",
+      "category": "Burger",
+      "price": 5.49,
+      "calories": 550,
+      "photo_url": "https://i.ibb.co.com/k1StsqS/images.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Nuggets",
+      "category": "Snack",
+      "price": 3.99,
+      "calories": 420,
+      "photo_url": "https://i.ibb.co.com/nLHX3t5/istockphoto-537703317-612x612.jpg"
+    },
+    {
+      "id": 4,
+      "name": "French Fries",
+      "category": "Side",
+      "price": 2.49,
+      "calories": 300,
+      "photo_url": "https://i.ibb.co.com/98wCpHP/download.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Zinger Burger",
+      "category": "Burger",
+      "price": 4.75,
+      "calories": 610,
+      "photo_url": "https://i.ibb.co.com/mbkhjmv/360-F-562773014-AUOq-IArlxg-Oun-Tf-Eg-K2-Ncj2-Yf-Ez0qa-Yb.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Popcorn Chicken",
+      "category": "Snack",
+      "price": 3.50,
+      "calories": 350,
+      "photo_url": "https://i.ibb.co.com/Cbg9gZV/chicken-popcorn-small-slices-that-600nw-2048846699.webp"
+    }
+  ]

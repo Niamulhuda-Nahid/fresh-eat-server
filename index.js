@@ -6,7 +6,8 @@ const port = 5000;
 
 app.use(cors());
 
-const chefs = require('./data/chef.json')
+const chefs = require('./data/chef.json');
+const fastFood = require('./data/fastFood.json');
 
 app.get('/', (req, res)=>{
     res.send('Fresh Eat server running')
@@ -20,6 +21,10 @@ app.get('/chef/:id', (req, res)=>{
     const id = req.params.id;
     const selectedRecipe = chefs.find(chef=> chef.id === id);
     res.send(selectedRecipe);
+})
+
+app.get('/fast-food', (req,res)=>{
+    res.send(fastFood);
 })
 
 app.listen(port, ()=>{
